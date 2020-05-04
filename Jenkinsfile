@@ -14,8 +14,6 @@ pipeline {
 
   }
   environment {
-    AWS_KEY = 'AKIAJX5JG5QTGURDF2GQ'
-    AWS_SECRET_KEY = '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'
     MONGO_VERSION = '4.2'
     REGION = 'ap-south-1'
     VERSION = '1.0'
